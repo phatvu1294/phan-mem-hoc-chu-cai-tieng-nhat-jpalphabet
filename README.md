@@ -1,2 +1,2 @@
-# phan-mem-hoc-chu-cai-tieng-nhat-jpalphabet
-Phần mềm học chữ cái tiếng nhật JPAlphabet được viết với ngôn ngữ Delphi
+# Phần mềm JPAlphabet
+*Phần mềm JPAlphabet được viết bằng ngôn ngữ Delphi*
