@@ -1,5 +1,5 @@
 # Phần mềm JPAlphabet
-*Phần mềm JPAlphabet được viết bằng ngôn ngữ Delphi*
+*Phần mềm JPAlphabet được viết bằng ngôn ngữ Delphi trên Delphi XE2*
 
 ### Giới thiệu
 Chắc hẳn với những ai đã từng học bảng chữ cái tiếng nhật thì cảm giác ban đầu đều cảm thấy rất khó, cá nhân mình cũng vậy... Càng khó khăn hơn khi phải luyện viết và nhận dạng chữ một mình... Nhằm giải quyết vấn đề đó, mình đã viết phần mềm này để giúp cho các bạn học bảng chữ cái tiếng nhật một cách dễ dàng hơn.
